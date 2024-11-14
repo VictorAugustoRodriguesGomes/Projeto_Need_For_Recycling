@@ -13,11 +13,10 @@ Então, bem-vindos à Hortolândia, uma cidade que valoriza a preservação do m
 </br>
 
 <div align="center">
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_09_Java/blob/main/img/projeto/p1.png?raw=true" width="400"/>
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_09_Java/blob/main/img/projeto/p2.png?raw=true" width="400"/>
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_09_Java/blob/main/img/projeto/p3.png?raw=true" width="400"/>
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_09_Java/blob/main/img/projeto/p4.png?raw=true" width="400"/>
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_09_Java/blob/main/img/projeto/p5.png?raw=true" width="805"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Need_For_Recycling/blob/main/img/F1.png?raw=true" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Need_For_Recycling/blob/main/img/F2.png?raw=true" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Need_For_Recycling/blob/main/img/F3.png?raw=true" width="400"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Need_For_Recycling/blob/main/img/F4.png?raw=true" width="400"/>
 </div>
 
 # Pré-requisitos
@@ -33,4 +32,4 @@ Este projeto é licenciado sob os termos da licença do MIT.
 
 ---------
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_09_Java/blob/main/img/base/dados.png?raw=true"/>
+<img src="https://github.com/VictorAugustoRodriguesGomes/Need_For_Recycling/blob/main/img/F5.png?raw=true" width="400"/>
