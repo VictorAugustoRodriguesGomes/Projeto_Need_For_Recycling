@@ -1202,7 +1202,7 @@ public class Gamer extends javax.swing.JFrame {
 
         lixo6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/lixo/lixo1.png"))); // NOI18N
         jPanel1.add(lixo6);
-        lixo6.setBounds(250, 680, 20, 30);
+        lixo6.setBounds(250, 670, 20, 30);
 
         lixo7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/lixo/lixo1.png"))); // NOI18N
         jPanel1.add(lixo7);
@@ -1274,7 +1274,7 @@ public class Gamer extends javax.swing.JFrame {
 
         lixo24.setIcon(new javax.swing.ImageIcon(getClass().getResource("/lixo/lixo1.png"))); // NOI18N
         jPanel1.add(lixo24);
-        lixo24.setBounds(170, 460, 20, 30);
+        lixo24.setBounds(170, 450, 20, 30);
 
         lixo25.setIcon(new javax.swing.ImageIcon(getClass().getResource("/lixo/lixo1.png"))); // NOI18N
         jPanel1.add(lixo25);
@@ -1295,7 +1295,7 @@ public class Gamer extends javax.swing.JFrame {
         Mapa.setIcon(new javax.swing.ImageIcon(getClass().getResource("/mapa/Mapa.png"))); // NOI18N
         Mapa.setBorder(javax.swing.BorderFactory.createEmptyBorder(1, 1, 1, 1));
         jPanel1.add(Mapa);
-        Mapa.setBounds(10, 110, 802, 602);
+        Mapa.setBounds(10, 92, 802, 640);
 
         jPanel2.setBackground(new java.awt.Color(0, 204, 0));
 

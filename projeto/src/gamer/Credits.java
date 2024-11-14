@@ -51,7 +51,9 @@ public class Credits extends javax.swing.JFrame {
         jPanel1.add(jButton2);
         jButton2.setBounds(587, 551, 200, 40);
 
+        jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/info/TC.png"))); // NOI18N
+        jLabel1.setVerticalAlignment(javax.swing.SwingConstants.TOP);
         jPanel1.add(jLabel1);
         jLabel1.setBounds(12, 13, 800, 600);
 
