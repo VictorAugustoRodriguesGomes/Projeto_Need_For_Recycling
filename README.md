@@ -32,4 +32,6 @@ Este projeto é licenciado sob os termos da licença do MIT.
 
 ---------
 
-<img src="https://github.com/VictorAugustoRodriguesGomes/Need_For_Recycling/blob/main/img/F5.png?raw=true" width="400"/>
+<div align="center" >
+<img src="https://github.com/VictorAugustoRodriguesGomes/Need_For_Recycling/blob/main/img/F5.png?raw=true" width="200"/>
+</div>
