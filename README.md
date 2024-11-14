@@ -1,16 +1,14 @@
 <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_09_Java/blob/main/img/base/java.png?raw=true" align="right"/>
 
-# Projeto ARK 09
+# Projeto Need For Recycling
 
 Olá! Meu nome é Victor Augusto e sou responsável por desenvolver esse projeto nomeado com Need For Recycling (utilizei esse nome genérico para organização pessoal).
 
 O objetivo deste projeto é demonstrar minhas habilidades como desenvolvedor.
 
-Neste projeto,
+Este projeto foi realizado no ano de 2020. Nele, desenvolvi um jogo 2D em Java utilizando a IDE NetBeans. 
 
-Bem-vindos à Hortolândia, uma cidade que valoriza a preservação do meio ambiente. Carlos, um menino brincalhão e curioso, que adora aprender sobre a natureza, e Bianca, sua amiga que adora brincar e jogar, perceberam após algumas pesquisas que a poluição estava se espalhando pelo mundo e causando grandes problemas. Sentindo-se responsáveis por agir, eles criaram uma competição: quem conseguiria recolher mais lixo pela cidade em apenas 100 segundos? Para tornar a competição mais interessante, cada sacola de lixo valeria pontos diferentes, de acordo com o impacto ambiental que causava. O vencedor teria o privilégio de plantar uma árvore, contribuindo diretamente para a proteção do meio ambiente e ajudando a combater a poluição.
-
-
+Então, bem-vindos à Hortolândia, uma cidade que valoriza a preservação do meio ambiente. Carlos, um menino brincalhão e curioso, que adora aprender sobre a natureza, e Bianca, sua amiga que adora brincar e jogar, perceberam após algumas pesquisas que a poluição estava se espalhando pelo mundo e causando grandes problemas. Sentindo-se responsáveis por agir, eles criaram uma competição: quem conseguiria recolher mais lixo pela cidade em apenas 100 segundos? Para tornar a competição mais interessante, cada sacola de lixo valeria pontos diferentes, de acordo com o impacto ambiental que causava. O vencedor teria o privilégio de plantar uma árvore, contribuindo diretamente para a proteção do meio ambiente e ajudando a combater a poluição.
 
 </br>
 
