@@ -8,7 +8,9 @@ O objetivo deste projeto é demonstrar minhas habilidades como desenvolvedor.
 
 Este projeto foi realizado no ano de 2020. Nele, desenvolvi um jogo 2D em Java utilizando a IDE NetBeans. 
 
-Então, bem-vindos à Hortolândia, uma cidade que valoriza a preservação do meio ambiente. Carlos, um menino brincalhão e curioso, que adora aprender sobre a natureza, e Bianca, sua amiga que adora brincar e jogar, perceberam após algumas pesquisas que a poluição estava se espalhando pelo mundo e causando grandes problemas. Sentindo-se responsáveis por agir, eles criaram uma competição: quem conseguiria recolher mais lixo pela cidade em apenas 100 segundos? Para tornar a competição mais interessante, cada sacola de lixo valeria pontos diferentes, de acordo com o impacto ambiental que causava. O vencedor teria o privilégio de plantar uma árvore, contribuindo diretamente para a proteção do meio ambiente e ajudando a combater a poluição.
+Então, bem-vindos à Hortolândia, uma cidade que valoriza a preservação do meio ambiente. Carlos, um menino brincalhão e curioso, que adora aprender sobre a natureza, e Bianca, sua amiga que adora brincar e jogar, perceberam após algumas pesquisas que a poluição estava se espalhando pela cidade e causando grandes problemas. Sentindo-se responsáveis por agir, eles criaram uma competição: quem conseguiria recolher mais lixo pela cidade em apenas 100 segundos? Para tornar a competição mais interessante, cada sacola de lixo valeria pontos diferentes, de acordo com o impacto ambiental que causava. O vencedor teria o privilégio de plantar uma árvore, contribuindo diretamente para a proteção do meio ambiente e ajudando a combater a poluição.
+
+Portanto, quem conseguiria recolher mais lixo pela cidade ?
 
 </br>
 
